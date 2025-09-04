@@ -112,7 +112,11 @@ Aufgabe: GitHub einrichten für praktische Arbeit
 
 [Lernziele 01](02_Leistungsbeurteilungen/Lernziele_01.pdf)
 
-- Dauer: ca. 15' (MC-Aufgaben)
+- Dauer: 10' (MC-Aufgaben)
+
+### Webdesign (Entwurf)
+
+[Wireframe](15_Webdesign/Wireframe_Intro.pdf)
 
 ### Hausaufgabe 
 
@@ -121,6 +125,10 @@ Aufgabe: GitHub einrichten für praktische Arbeit
 - Abgabe: Zwischenstand Tier-Webseite
 
 ## 25.09.2025 | Woche 39
+
+### Webdesign (Vertiefung Flexbox)
+
+[Flexbox](15_Webdesign/Webdesign_mit_Flexbox.pdf)
 
 ## 02.10.2025 | Woche 40
 
