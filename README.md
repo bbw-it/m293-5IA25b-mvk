@@ -112,7 +112,11 @@ Aufgabe: GitHub einrichten für praktische Arbeit
 
 [Lernziele 01](02_Leistungsbeurteilungen/Lernziele_01.pdf)
 
-- Dauer: ca. 15' (MC-Aufgaben)
+- Dauer: 10' (MC-Aufgaben)
+
+### Webdesign (Entwurf)
+
+[Wireframe](15_Webdesign/Wireframe_Intro.pdf)
 
 ### Hausaufgabe 
 
