@@ -126,7 +126,35 @@ Aufgabe: GitHub einrichten für praktische Arbeit
 
 ## 25.09.2025 | Woche 39
 
+### Webdesign (Vertiefung Flexbox)
+
+[Flexbox](15_Webdesign/Webdesign_mit_Flexbox.pdf)
+
+- Aufgaben 1-3 durchführen
+
+### Repetition
+
+[Theorie Tools & Deployment](04_Theorie/Theorie_06.pdf)
+
+- Theorie studieren
+- Praktische arbeit überdenken und ggf. überarbeiten
+
+### Hausaufgabe 
+
+- Abgabe: Fertigstellung Tier-Webseite
+
 ## 02.10.2025 | Woche 40
+
+### Repetition
+
+[HTML & CSS Grundlagen](04_Theorie/Theorie_01.pdf)<br>
+[Gestaltungsentwurf / Layout / Umsetzun](04_Theorie/Theorie_05.pdf)
+
+- Theorie studieren
+
+### Peer-Bewertung / Demo
+
+- Bewertung gemäss Bewertungsraster
 
 ## 09.10.2025 | Woche 41
 
